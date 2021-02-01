@@ -2,7 +2,7 @@
   "name": "DOGE",
   "logoURI": "https://github.com/LinXiao99/DOGE1/blob/main/DOGE.png",
   "keywords": [
-      "defi",
+      "DOGE",
       "DEFI",
       "yield"
     ],
@@ -10,9 +10,9 @@
     "tokens": [
       {
       "chainId": 1,
-      "address": "0x000000000000000000000000000000",
+      "address": "0xe48f1f78498c6b1f04f65cf76fe644bd818b0891",
       "name": "DOGE",
-      "symbol": "DEFI",
+      "symbol": "DOGE",
       "decimals": 18,
       "logoURI": "https://github.com/LinXiao99/DOGE1/blob/main/DOGE.png"
       }
