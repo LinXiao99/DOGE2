@@ -1,0 +1,25 @@
+{
+  "name": "DOGE",
+  "logoURI": "https://github.com/LinXiao99/DOGE1/blob/main/DOGE.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x000000000000000000000000000000",
+      "name": "DOGE",
+      "symbol": "DEFI",
+      "decimals": 18,
+      "logoURI": "https://github.com/LinXiao99/DOGE1/blob/main/DOGE.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
